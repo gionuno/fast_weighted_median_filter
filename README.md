@@ -1,4 +1,4 @@
-Fast Weighted Median Filter, based on 100+ Times Faster Weighted Median Filter (WMF) by Qi Zhang, Li Xu, and Jiaya Jia.
+Based on 100+ Times Faster Weighted Median Filter (WMF) by Qi Zhang, Li Xu, and Jiaya Jia.
 ![image](Figure_1.png)
 
 Implementation in C++, Cython setup. 
